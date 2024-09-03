@@ -49,3 +49,12 @@
     background: #252420;
     color: #FFFFFF;
 }
+.img-hero {
+    width: 510px;
+    height: 510px;
+    top: 137px;
+    left: 760px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
